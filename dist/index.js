@@ -33,11 +33,11 @@ Persona = __decorate([
     decoraPersona
 ], Persona);
 let Rodrigo = new Persona("Rodrigo", "Benavides", 1977);
-// console.log(Rodrigo);
-// console.log(Rodrigo.presentarse());
-// console.log(Rodrigo.edad(2022));
-// console.log(Rodrigo.elApellido);
-// console.log(Rodrigo.elNombre);
+console.log(Rodrigo);
+console.log(Rodrigo.presentarse());
+console.log(Rodrigo.edad(2022));
+console.log(Rodrigo.elApellido);
+console.log(Rodrigo.elNombre);
 // Rodrigo.Saludar()
 // Creación de Superclase operaciónes matemáticas
 class OpeMat {
